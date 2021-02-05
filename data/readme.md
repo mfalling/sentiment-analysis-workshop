@@ -1,1 +1,6 @@
-The data folder contains two JSON files: The original GameStopStream.json generated during the Twitter Data Collection Workshop and a one hour stream collected using the same method and query term.
+# Data
+
+The data folder contains two JSON files. 
+
+* GameStopStream.json - Generated during the Twitter Data Collection Workshop
+* GameStop_hr.zip - 89 MB JSON file (one hour stream). The file is compressed.
