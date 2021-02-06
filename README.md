@@ -2,6 +2,9 @@
 
 Files related to the Sentiment Analysis Workshop on Feb 5, 2020 for USF's Big Data Analytics Lab.
 
+* **Wiki Page**: [here](http://bigdataanalyticslab.pbworks.com/w/page/143206620/Sentiment%20Analysis%20Workshop)
+* **Slides**: [here](https://docs.google.com/presentation/d/1q2ECGOJOLm3OfqziEAkXZmE8somnhnD3RUyHGZB_nCQ/edit?usp=sharing)
+
 ##  BasicSentimentAnalysis.R
 This script explores the sentiment of a single tweet. 
 * Compare dictionaries
